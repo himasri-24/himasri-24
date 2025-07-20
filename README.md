@@ -12,7 +12,7 @@
 - 📈 Passionate about Data Visualization, Business Intelligence, and Analytics
 - 💡 Currently exploring real-world projects using Excel, Power BI, and Python
 - 🌱 Learning advanced skills in Machine Learning and Data Engineering
-- 📫 Reach me at: [pakalapatihimasri@gmail.com]
+- 📫 Reach me at: pakalapatihimasri@gmail.com
 
 ---
 
@@ -45,8 +45,8 @@
 |--------|-------------|
 | [Smart Traffic Control Project](#) | Developed an IoT-based intelligent traffic control system to prioritize emergency vehicles, specifically ambulances, using real-time signal switching logic. |
 | [Diabetic Vision Impairment](#) | Built a CNN model to classify diabetic retinopathy severity from retinal images for early medical diagnosis.Tools Used: Python, TensorFlow, Keras, GPU, OpenCV |
-| [Resume Builder](#) | Created a secure resume builder with authentication, draft-saving, and RESTful APIs for dynamic resume generation.Tools Used: Node.js, Express.js, MongoDB, Mongoose, bcrypt, CORS |
-| [Portfolio](#) | A personal portfolio built using React/Vite/HTML etc. |
+| [Resume Builder](https://github.com/himasri-24/resume-builder) | Created a secure resume builder with authentication, draft-saving, and RESTful APIs for dynamic resume generation.Tools Used: Node.js, Express.js, MongoDB, Mongoose, bcrypt, CORS |
+| [Portfolio]([#](https://github.com/himasri-24/Professional-portfolio)) | A personal portfolio built using React/Vite/HTML etc. |
 
 ---
 
@@ -73,9 +73,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:pakalapatihimasri@gmail.com)
 ---
 
-### 📊 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=himasri-24&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
