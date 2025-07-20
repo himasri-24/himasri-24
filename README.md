@@ -46,7 +46,7 @@
 | [Smart Traffic Control Project](#) | Developed an IoT-based intelligent traffic control system to prioritize emergency vehicles, specifically ambulances, using real-time signal switching logic. |
 | [Diabetic Vision Impairment](#) | Built a CNN model to classify diabetic retinopathy severity from retinal images for early medical diagnosis.Tools Used: Python, TensorFlow, Keras, GPU, OpenCV |
 | [Resume Builder](https://github.com/himasri-24/resume-builder) | Created a secure resume builder with authentication, draft-saving, and RESTful APIs for dynamic resume generation.Tools Used: Node.js, Express.js, MongoDB, Mongoose, bcrypt, CORS |
-| [Portfolio]([#](https://github.com/himasri-24/Professional-portfolio)) | A personal portfolio built using React/Vite/HTML etc. |
+| [Portfolio](https://github.com/himasri-24/Professional-portfolio) | A personal portfolio built using React/Vite/HTML etc. |
 
 ---
 
