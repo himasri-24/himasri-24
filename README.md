@@ -21,8 +21,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 #### 📊 Data Analytics & Visualization  
