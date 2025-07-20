@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Himasri</h1>
+<h1 align="center">Hi there 👋, I'm Hima Sri</h1>
 
 <p align="center">
-  🌱 Aspiring Full Stack Developer | 💻 Tech Enthusiast | 🎯 Lifelong Learner
+  🌱 Aspiring Full Stack Developer | 📊 Data Analytics Enthusias | 💻 Tech Enthusiast | 🎯 Lifelong Learner
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ### 👩‍💻 About Me
 
 - 🎓 pursuing my final year B.Tech in Computer Science with a specialization in Data Science at Vignan's Nirula Institute of Technology and Science for Women, located in Palakaluru, Guntur.
-- 🌐 Passionate about Web Development, Machine Learning, and Data visuvalization, 
-- 🔭 Currently working on personal projects to enhance my development skills
-- 🌟 Interested in contributing to Open Source
+- 📈 Passionate about Data Visualization, Business Intelligence, and Analytics
+- 💡 Currently exploring real-world projects using Excel, Power BI, and Python
+- 🌱 Learning advanced skills in Machine Learning and Data Engineering
 - 📫 Reach me at: [pakalapatihimasri@gmail.com]
 
 ---
@@ -45,13 +45,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [Smart Traffic Control Project](#) | Developed an IoT-based intelligent traffic control system to prioritize emergency vehicles, specifically
-ambulances, using real-time signal switching logic. |
-| [Diabetic Vision Impairment](#) | Built a CNN model to classify diabetic retinopathy severity from retinal images for early medical diagnosis.
-Tools Used: Python, TensorFlow, Keras, GPU, OpenCV |
-| [Resume Builder](#) | Created a secure resume builder with authentication, draft-saving, and RESTful APIs for dynamic resume
-generation.
-Tools Used: Node.js, Express.js, MongoDB, Mongoose, bcrypt, CORS |
+| [Smart Traffic Control Project](#) | Developed an IoT-based intelligent traffic control system to prioritize emergency vehicles, specifically ambulances, using real-time signal switching logic. |
+| [Diabetic Vision Impairment](#) | Built a CNN model to classify diabetic retinopathy severity from retinal images for early medical diagnosis.Tools Used: Python, TensorFlow, Keras, GPU, OpenCV |
+| [Resume Builder](#) | Created a secure resume builder with authentication, draft-saving, and RESTful APIs for dynamic resume generation.Tools Used: Node.js, Express.js, MongoDB, Mongoose, bcrypt, CORS |
 | [Portfolio](#) | A personal portfolio built using React/Vite/HTML etc. |
 
 ---
