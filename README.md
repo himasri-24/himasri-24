@@ -8,11 +8,11 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Pursuing [Your Degree or Course]
-- 🌐 Passionate about Web Development, Machine Learning, and Cloud Computing
+- 🎓 pursuing my final year B.Tech in Computer Science with a specialization in Data Science at Vignan's Nirula Institute of Technology and Science for Women, located in Palakaluru, Guntur.
+- 🌐 Passionate about Web Development, Machine Learning, and Data visuvalization, 
 - 🔭 Currently working on personal projects to enhance my development skills
 - 🌟 Interested in contributing to Open Source
-- 📫 Reach me at: [your-email@example.com]
+- 📫 Reach me at: [pakalapatihimasri@gmail.com]
 
 ---
 
@@ -25,24 +25,43 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+#### 📊 Data Analytics & Visualization  
+![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+#### 🧠 Data Science Tools  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-6A5ACD?style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ---
 
 ### 📌 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [Project 1](#) | Brief description about what this project does. |
-| [Project 2](#) | Technologies used and its purpose. |
-| [Portfolio](#) | A personal portfolio built using [React/Vite/HTML etc.] |
+| [Smart Traffic Control Project](#) | Developed an IoT-based intelligent traffic control system to prioritize emergency vehicles, specifically
+ambulances, using real-time signal switching logic. |
+| [Diabetic Vision Impairment](#) | Built a CNN model to classify diabetic retinopathy severity from retinal images for early medical diagnosis.
+Tools Used: Python, TensorFlow, Keras, GPU, OpenCV |
+| [Resume Builder](#) | Created a secure resume builder with authentication, draft-saving, and RESTful APIs for dynamic resume
+generation.
+Tools Used: Node.js, Express.js, MongoDB, Mongoose, bcrypt, CORS |
+| [Portfolio](#) | A personal portfolio built using React/Vite/HTML etc. |
 
 ---
 
 ### 🏅 Certifications
 
-- Google Cloud Certified – [Your Certification Name]
-- Udemy / Coursera – [Course Name]
-- Any other relevant certs...
+
+- Udemy  – Data Scieence and AI, Python Bootcamp For Beginners and Power BI
+- Infosys - Programming Fundamentals Using Python(Part 1 and 2).
+- JPMorgan Chase and Co - Excel Skill, Data Analytics and Visualization.
 
 ---
 
@@ -56,10 +75,8 @@
 
 ### 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTA)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/himasri38)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:pakalapatihimasri@gmail.com)
 ---
 
 ### 📊 Contribution Graph
